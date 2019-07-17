@@ -1,0 +1,8 @@
+name = "Obiba Mica lists"
+description = "Mica Client -- Lists : This module is under development"
+package = Obiba
+core = 7.x
+
+files[] = includes/obiba_mica_search_filter_helpers.inc
+
+dependencies[] = obiba_mica_commons
